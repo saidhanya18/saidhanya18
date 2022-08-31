@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm S S G Saidhanya sree</h1>
 <h3 align="center">A passionate developer</h3>
-<img align="right" alt="coding" width='400' src="https://www.bosch.com/careers/why-bosch/culture-and-benefits/">
+<img align="right" alt="coding" width='400' src="https://media0.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif?cid=ecf05e47w7b9qz1jrxopicvj79wyzqqiiro97b98u7da9a8a&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidhanya18&label=Profile%20views&color=0e75b6&style=flat" alt="saidhanya18" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **saidhanyashree@gmail.com**
 
-- 📄 Know about my experiences [Worked with HTML,CSS,JAVASCRIPT,BOOTSTRAP,DOM,JQUERY,NODE.JS,EXPRESS.JS,EJS,SQL.](Worked with HTML,CSS,JAVASCRIPT,BOOTSTRAP,DOM,JQUERY,NODE.JS,EXPRESS.JS,EJS,SQL.)
+- 📄 Know about my experiences [Worked with HTML,CSS,JAVASCRIPT,BOOTSTRAP,DOM,JQUERY,NODE.JS,EXPRESS.JS,EJS,SQL.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
